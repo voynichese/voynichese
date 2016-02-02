@@ -64,8 +64,6 @@ The actual labels are highlighted in green, with all other occurrences highlight
 <br>
 All labels: <a href='http://www.voynichese.com/#/lay:label-words'>http://www.voynichese.com/#/lay:label-words</a><br>
 
-Labels per folio (for folios that contain at least one label):<br>
-
 Folio f1r (2 labels): <a href='http://www.voynichese.com/#/lay:f1r-labels'>http://www.voynichese.com/#/lay:f1r-labels</a><br>
 Folio f8r (1 label): <a href='http://www.voynichese.com/#/lay:f8r-labels'>http://www.voynichese.com/#/lay:f8r-labels</a><br>
 Folio f8v (1 label): <a href='http://www.voynichese.com/#/lay:f8v-labels'>http://www.voynichese.com/#/lay:f8v-labels</a><br>
