@@ -64,124 +64,17 @@ The actual labels are highlighted in green, with all other occurrences highlight
 <br>
 All labels: <a href='http://www.voynichese.com/#/lay:label-words'>http://www.voynichese.com/#/lay:label-words</a><br>
 
+Labels per folio (for folios that contain at least one label):
 Folio f1r labels: <a href='http://www.voynichese.com/#/lay:f1r-labels'>http://www.voynichese.com/#/lay:f1r-labels</a><br>
-Folio f1v labels: <i>no labels detected</i>
-Folio f2r labels: <i>no labels detected</i>
-Folio f2v labels: <i>no labels detected</i>
-Folio f3r labels: <i>no labels detected</i>
-Folio f3v labels: <i>no labels detected</i>
-Folio f4r labels: <i>no labels detected</i>
-Folio f4v labels: <i>no labels detected</i>
-Folio f5r labels: <i>no labels detected</i>
-Folio f5v labels: <i>no labels detected</i>
-Folio f6r labels: <i>no labels detected</i>
-Folio f6v labels: <i>no labels detected</i>
-Folio f7r labels: <i>no labels detected</i>
-Folio f7v labels: <i>no labels detected</i>
 Folio f8r labels: <a href='http://www.voynichese.com/#/lay:f8r-labels'>http://www.voynichese.com/#/lay:f8r-labels</a><br>
 Folio f8v labels: <a href='http://www.voynichese.com/#/lay:f8v-labels'>http://www.voynichese.com/#/lay:f8v-labels</a><br>
-Folio f9r labels: <i>no labels detected</i>
-Folio f9v labels: <i>no labels detected</i>
-Folio f10r labels: <i>no labels detected</i>
-Folio f10v labels: <i>no labels detected</i>
-Folio f11r labels: <i>no labels detected</i>
-Folio f11v labels: <i>no labels detected</i>
-Folio f13r labels: <i>no labels detected</i>
-Folio f13v labels: <i>no labels detected</i>
-Folio f14r labels: <i>no labels detected</i>
-Folio f14v labels: <i>no labels detected</i>
-Folio f15r labels: <i>no labels detected</i>
-Folio f15v labels: <i>no labels detected</i>
-Folio f16r labels: <i>no labels detected</i>
-Folio f16v labels: <i>no labels detected</i>
-Folio f17r labels: <i>no labels detected</i>
-Folio f17v labels: <i>no labels detected</i>
-Folio f18r labels: <i>no labels detected</i>
-Folio f18v labels: <i>no labels detected</i>
-Folio f19r labels: <i>no labels detected</i>
-Folio f19v labels: <i>no labels detected</i>
-Folio f20r labels: <i>no labels detected</i>
-Folio f20v labels: <i>no labels detected</i>
-Folio f21r labels: <i>no labels detected</i>
-Folio f21v labels: <i>no labels detected</i>
-Folio f22r labels: <i>no labels detected</i>
-Folio f22v labels: <i>no labels detected</i>
-Folio f23r labels: <i>no labels detected</i>
-Folio f23v labels: <i>no labels detected</i>
 Folio f24r labels: <a href='http://www.voynichese.com/#/lay:f24r-labels'>http://www.voynichese.com/#/lay:f24r-labels</a><br>
-Folio f24v labels: <i>no labels detected</i>
-Folio f25r labels: <i>no labels detected</i>
-Folio f25v labels: <i>no labels detected</i>
-Folio f26r labels: <i>no labels detected</i>
-Folio f26v labels: <i>no labels detected</i>
 Folio f27r labels: <a href='http://www.voynichese.com/#/lay:f27r-labels'>http://www.voynichese.com/#/lay:f27r-labels</a><br>
-Folio f27v labels: <i>no labels detected</i>
-Folio f28r labels: <i>no labels detected</i>
-Folio f28v labels: <i>no labels detected</i>
-Folio f29r labels: <i>no labels detected</i>
-Folio f29v labels: <i>no labels detected</i>
-Folio f30r labels: <i>no labels detected</i>
-Folio f30v labels: <i>no labels detected</i>
-Folio f31r labels: <i>no labels detected</i>
-Folio f31v labels: <i>no labels detected</i>
-Folio f32r labels: <i>no labels detected</i>
-Folio f32v labels: <i>no labels detected</i>
-Folio f33r labels: <i>no labels detected</i>
-Folio f33v labels: <i>no labels detected</i>
-Folio f34r labels: <i>no labels detected</i>
-Folio f34v labels: <i>no labels detected</i>
-Folio f35r labels: <i>no labels detected</i>
-Folio f35v labels: <i>no labels detected</i>
-Folio f36r labels: <i>no labels detected</i>
-Folio f36v labels: <i>no labels detected</i>
-Folio f37r labels: <i>no labels detected</i>
 Folio f37v labels: <a href='http://www.voynichese.com/#/lay:f37v-labels'>http://www.voynichese.com/#/lay:f37v-labels</a><br>
-Folio f38r labels: <i>no labels detected</i>
-Folio f38v labels: <i>no labels detected</i>
-Folio f39r labels: <i>no labels detected</i>
-Folio f39v labels: <i>no labels detected</i>
-Folio f40r labels: <i>no labels detected</i>
-Folio f40v labels: <i>no labels detected</i>
-Folio f41r labels: <i>no labels detected</i>
 Folio f41v labels: <a href='http://www.voynichese.com/#/lay:f41v-labels'>http://www.voynichese.com/#/lay:f41v-labels</a><br>
-Folio f42r labels: <i>no labels detected</i>
-Folio f42v labels: <i>no labels detected</i>
-Folio f43r labels: <i>no labels detected</i>
-Folio f43v labels: <i>no labels detected</i>
-Folio f44r labels: <i>no labels detected</i>
-Folio f44v labels: <i>no labels detected</i>
-Folio f45r labels: <i>no labels detected</i>
-Folio f45v labels: <i>no labels detected</i>
-Folio f46r labels: <i>no labels detected</i>
-Folio f46v labels: <i>no labels detected</i>
-Folio f47r labels: <i>no labels detected</i>
-Folio f47v labels: <i>no labels detected</i>
-Folio f48r labels: <i>no labels detected</i>
-Folio f48v labels: <i>no labels detected</i>
-Folio f49r labels: <i>no labels detected</i>
 Folio f49v labels: <a href='http://www.voynichese.com/#/lay:f49v-labels'>http://www.voynichese.com/#/lay:f49v-labels</a><br>
-Folio f50r labels: <i>no labels detected</i>
-Folio f50v labels: <i>no labels detected</i>
-Folio f51r labels: <i>no labels detected</i>
-Folio f51v labels: <i>no labels detected</i>
-Folio f52r labels: <i>no labels detected</i>
-Folio f52v labels: <i>no labels detected</i>
-Folio f53r labels: <i>no labels detected</i>
-Folio f53v labels: <i>no labels detected</i>
-Folio f54r labels: <i>no labels detected</i>
-Folio f54v labels: <i>no labels detected</i>
-Folio f55r labels: <i>no labels detected</i>
-Folio f55v labels: <i>no labels detected</i>
-Folio f56r labels: <i>no labels detected</i>
-Folio f56v labels: <i>no labels detected</i>
-Folio f57r labels: <i>no labels detected</i>
 Folio f57v labels: <a href='http://www.voynichese.com/#/lay:f57v-labels'>http://www.voynichese.com/#/lay:f57v-labels</a><br>
-Folio f58r labels: <i>no labels detected</i>
-Folio f58v labels: <i>no labels detected</i>
-Folio f65r labels: <i>no labels detected</i>
-Folio f65v labels: <i>no labels detected</i>
 Folio f66r labels: <a href='http://www.voynichese.com/#/lay:f66r-labels'>http://www.voynichese.com/#/lay:f66r-labels</a><br>
-Folio f66v labels: <i>no labels detected</i>
 Folio f67r1 labels: <a href='http://www.voynichese.com/#/lay:f67r1-labels'>http://www.voynichese.com/#/lay:f67r1-labels</a><br>
 Folio f67r2 labels: <a href='http://www.voynichese.com/#/lay:f67r2-labels'>http://www.voynichese.com/#/lay:f67r2-labels</a><br>
 Folio f67v1 labels: <a href='http://www.voynichese.com/#/lay:f67v1-labels'>http://www.voynichese.com/#/lay:f67v1-labels</a><br>
@@ -190,12 +83,10 @@ Folio f68r1 labels: <a href='http://www.voynichese.com/#/lay:f68r1-labels'>http:
 Folio f68r2 labels: <a href='http://www.voynichese.com/#/lay:f68r2-labels'>http://www.voynichese.com/#/lay:f68r2-labels</a><br>
 Folio f68r3 labels: <a href='http://www.voynichese.com/#/lay:f68r3-labels'>http://www.voynichese.com/#/lay:f68r3-labels</a><br>
 Folio f68v1 labels: <a href='http://www.voynichese.com/#/lay:f68v1-labels'>http://www.voynichese.com/#/lay:f68v1-labels</a><br>
-Folio f68v2 labels: <i>no labels detected</i>
 Folio f68v3 labels: <a href='http://www.voynichese.com/#/lay:f68v3-labels'>http://www.voynichese.com/#/lay:f68v3-labels</a><br>
 Folio f69r labels: <a href='http://www.voynichese.com/#/lay:f69r-labels'>http://www.voynichese.com/#/lay:f69r-labels</a><br>
 Folio f69v labels: <a href='http://www.voynichese.com/#/lay:f69v-labels'>http://www.voynichese.com/#/lay:f69v-labels</a><br>
 Folio f70r1 labels: <a href='http://www.voynichese.com/#/lay:f70r1-labels'>http://www.voynichese.com/#/lay:f70r1-labels</a><br>
-Folio f70r2 labels: <i>no labels detected</i>
 Folio f70v1 labels: <a href='http://www.voynichese.com/#/lay:f70v1-labels'>http://www.voynichese.com/#/lay:f70v1-labels</a><br>
 Folio f70v2 labels: <a href='http://www.voynichese.com/#/lay:f70v2-labels'>http://www.voynichese.com/#/lay:f70v2-labels</a><br>
 Folio f71r labels: <a href='http://www.voynichese.com/#/lay:f71r-labels'>http://www.voynichese.com/#/lay:f71r-labels</a><br>
@@ -211,84 +102,33 @@ Folio f73v labels: <a href='http://www.voynichese.com/#/lay:f73v-labels'>http://
 Folio f75r labels: <a href='http://www.voynichese.com/#/lay:f75r-labels'>http://www.voynichese.com/#/lay:f75r-labels</a><br>
 Folio f75v labels: <a href='http://www.voynichese.com/#/lay:f75v-labels'>http://www.voynichese.com/#/lay:f75v-labels</a><br>
 Folio f76r labels: <a href='http://www.voynichese.com/#/lay:f76r-labels'>http://www.voynichese.com/#/lay:f76r-labels</a><br>
-Folio f76v labels: <i>no labels detected</i>
 Folio f77r labels: <a href='http://www.voynichese.com/#/lay:f77r-labels'>http://www.voynichese.com/#/lay:f77r-labels</a><br>
 Folio f77v labels: <a href='http://www.voynichese.com/#/lay:f77v-labels'>http://www.voynichese.com/#/lay:f77v-labels</a><br>
 Folio f78r labels: <a href='http://www.voynichese.com/#/lay:f78r-labels'>http://www.voynichese.com/#/lay:f78r-labels</a><br>
-Folio f78v labels: <i>no labels detected</i>
-Folio f79r labels: <i>no labels detected</i>
-Folio f79v labels: <i>no labels detected</i>
 Folio f80r labels: <a href='http://www.voynichese.com/#/lay:f80r-labels'>http://www.voynichese.com/#/lay:f80r-labels</a><br>
-Folio f80v labels: <i>no labels detected</i>
-Folio f81r labels: <i>no labels detected</i>
-Folio f81v labels: <i>no labels detected</i>
 Folio f82r labels: <a href='http://www.voynichese.com/#/lay:f82r-labels'>http://www.voynichese.com/#/lay:f82r-labels</a><br>
 Folio f82v labels: <a href='http://www.voynichese.com/#/lay:f82v-labels'>http://www.voynichese.com/#/lay:f82v-labels</a><br>
 Folio f83r labels: <a href='http://www.voynichese.com/#/lay:f83r-labels'>http://www.voynichese.com/#/lay:f83r-labels</a><br>
 Folio f83v labels: <a href='http://www.voynichese.com/#/lay:f83v-labels'>http://www.voynichese.com/#/lay:f83v-labels</a><br>
 Folio f84r labels: <a href='http://www.voynichese.com/#/lay:f84r-labels'>http://www.voynichese.com/#/lay:f84r-labels</a><br>
 Folio f84v labels: <a href='http://www.voynichese.com/#/lay:f84v-labels'>http://www.voynichese.com/#/lay:f84v-labels</a><br>
-Folio f85r1 labels: <i>no labels detected</i>
 Folio f85r2 labels: <a href='http://www.voynichese.com/#/lay:f85r2-labels'>http://www.voynichese.com/#/lay:f85r2-labels</a><br>
-Folio f86v3 labels: <i>no labels detected</i>
-Folio f86v4 labels: <i>no labels detected</i>
-Folio f86v5 labels: <i>no labels detected</i>
-Folio f86v6 labels: <i>no labels detected</i>
-Folio f87r labels: <i>no labels detected</i>
-Folio f87v labels: <i>no labels detected</i>
 Folio f88r labels: <a href='http://www.voynichese.com/#/lay:f88r-labels'>http://www.voynichese.com/#/lay:f88r-labels</a><br>
 Folio f88v labels: <a href='http://www.voynichese.com/#/lay:f88v-labels'>http://www.voynichese.com/#/lay:f88v-labels</a><br>
 Folio f89r1 labels: <a href='http://www.voynichese.com/#/lay:f89r1-labels'>http://www.voynichese.com/#/lay:f89r1-labels</a><br>
 Folio f89r2 labels: <a href='http://www.voynichese.com/#/lay:f89r2-labels'>http://www.voynichese.com/#/lay:f89r2-labels</a><br>
 Folio f89v1 labels: <a href='http://www.voynichese.com/#/lay:f89v1-labels'>http://www.voynichese.com/#/lay:f89v1-labels</a><br>
 Folio f89v2 labels: <a href='http://www.voynichese.com/#/lay:f89v2-labels'>http://www.voynichese.com/#/lay:f89v2-labels</a><br>
-Folio f90r1 labels: <i>no labels detected</i>
-Folio f90r2 labels: <i>no labels detected</i>
-Folio f90v1 labels: <i>no labels detected</i>
-Folio f90v2 labels: <i>no labels detected</i>
-Folio f93r labels: <i>no labels detected</i>
-Folio f93v labels: <i>no labels detected</i>
-Folio f94r labels: <i>no labels detected</i>
-Folio f94v labels: <i>no labels detected</i>
-Folio f95r1 labels: <i>no labels detected</i>
-Folio f95r2 labels: <i>no labels detected</i>
-Folio f95v1 labels: <i>no labels detected</i>
-Folio f95v2 labels: <i>no labels detected</i>
-Folio f96r labels: <i>no labels detected</i>
-Folio f96v labels: <i>no labels detected</i>
 Folio f99r labels: <a href='http://www.voynichese.com/#/lay:f99r-labels'>http://www.voynichese.com/#/lay:f99r-labels</a><br>
 Folio f99v labels: <a href='http://www.voynichese.com/#/lay:f99v-labels'>http://www.voynichese.com/#/lay:f99v-labels</a><br>
 Folio f100r labels: <a href='http://www.voynichese.com/#/lay:f100r-labels'>http://www.voynichese.com/#/lay:f100r-labels</a><br>
 Folio f100v labels: <a href='http://www.voynichese.com/#/lay:f100v-labels'>http://www.voynichese.com/#/lay:f100v-labels</a><br>
-Folio f101r1 labels: <i>no labels detected</i>
 Folio f101v2 labels: <a href='http://www.voynichese.com/#/lay:f101v2-labels'>http://www.voynichese.com/#/lay:f101v2-labels</a><br>
 Folio f102r1 labels: <a href='http://www.voynichese.com/#/lay:f102r1-labels'>http://www.voynichese.com/#/lay:f102r1-labels</a><br>
 Folio f102r2 labels: <a href='http://www.voynichese.com/#/lay:f102r2-labels'>http://www.voynichese.com/#/lay:f102r2-labels</a><br>
 Folio f102v1 labels: <a href='http://www.voynichese.com/#/lay:f102v1-labels'>http://www.voynichese.com/#/lay:f102v1-labels</a><br>
 Folio f102v2 labels: <a href='http://www.voynichese.com/#/lay:f102v2-labels'>http://www.voynichese.com/#/lay:f102v2-labels</a><br>
-Folio f103r labels: <i>no labels detected</i>
-Folio f103v labels: <i>no labels detected</i>
-Folio f104r labels: <i>no labels detected</i>
-Folio f104v labels: <i>no labels detected</i>
-Folio f105r labels: <i>no labels detected</i>
-Folio f105v labels: <i>no labels detected</i>
-Folio f106r labels: <i>no labels detected</i>
-Folio f106v labels: <i>no labels detected</i>
-Folio f107r labels: <i>no labels detected</i>
-Folio f107v labels: <i>no labels detected</i>
-Folio f108r labels: <i>no labels detected</i>
-Folio f108v labels: <i>no labels detected</i>
-Folio f111r labels: <i>no labels detected</i>
-Folio f111v labels: <i>no labels detected</i>
-Folio f112r labels: <i>no labels detected</i>
-Folio f112v labels: <i>no labels detected</i>
-Folio f113r labels: <i>no labels detected</i>
-Folio f113v labels: <i>no labels detected</i>
 Folio f114r labels: <a href='http://www.voynichese.com/#/lay:f114r-labels'>http://www.voynichese.com/#/lay:f114r-labels</a><br>
-Folio f114v labels: <i>no labels detected</i>
-Folio f115r labels: <i>no labels detected</i>
-Folio f115v labels: <i>no labels detected</i>
-Folio f116r labels: <i>no labels detected</i>
 
 <h2>Initial & Final Words</h2>
 The following queries highlight the sets of words that occur at the start or end of folios, paragraphs and lines.<br>
