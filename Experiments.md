@@ -6,7 +6,7 @@ A heat map of the amount of information bits per word, with the darker colors as
 
 The number of bits per word is given by the log (base-2) of the word's associated probability. The probability of a word in the text has been computed as the product of the conditional probabilities of its characters. E.g.:
 
-<span style="font-family:monospace;">p(daiin) = p(d) * p(a|d) * p(i|da) * p(i|dai) * p(n|daii) * p(<space>|daiin)</span>
+<i>p(daiin) = p(d) * p(a|d) * p(i|da) * p(i|dai) * p(n|daii) * p(&lt;space&gt;|daiin)</i>
 
 ## Diverse Words ##
 The following queries highlight all words (with minimum size of five, six and seven characters) which do not contain repeated characters.
