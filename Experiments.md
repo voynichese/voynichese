@@ -4,9 +4,9 @@ The Voynichese query viewer supports custom query overlays for which there is cu
 A heat map of the amount of information bits per word, with the darker colors assigned to the words with the most information:<br>
 <a href='http://www.voynichese.com/#/lay:word-bits'>http://www.voynichese.com/#/lay:word-bits</a><br>
 
-The number of bits per word is given by the log (base-2) of the word's associated probability. The probability of a word in the text has been computed as the product of the conditional probabilities of its characters.
+The number of bits per word is given by the log (base-2) of the word's associated probability. The probability of a word in the text has been computed as the product of the conditional probabilities of its characters. E.g.:
 
-E.g. p(daiin) = p(d) * p(a|d) * p(i|da) * p(i|dai) * p(n|daii) * p(<space>|daiin)
+<span style="font-family:monospace;">p(daiin) = p(d) * p(a|d) * p(i|da) * p(i|dai) * p(n|daii) * p(<space>|daiin)</span>
 
 ## Diverse Words ##
 The following queries highlight all words (with minimum size of five, six and seven characters) which do not contain repeated characters.
