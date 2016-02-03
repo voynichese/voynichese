@@ -1,7 +1,7 @@
 The Voynichese query viewer supports custom query overlays for which there is currently no UI support. Use the links below to view these custom queries.
 
 ## Information Bits ##
-A heat map of the amount of information bits per word:
+A heat map of the amount of information bits per word:<br>
 <a href='http://www.voynichese.com/#/lay:word-bits'>http://www.voynichese.com/#/lay:word-bits</a><br>
 
 The number of bits per word is given by the log (base-2) of the word's associated probability. The probability of a word in the text has been computed as the product of the conditional probabilities of its characters.
