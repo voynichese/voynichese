@@ -1,4 +1,4 @@
-The Voynichese query viewer supports custom query overlays for which there is currently no UI support. Use the links below to view these custom queries.
+The Voynichese query viewer supports custom query overlays. Use the links below to view these custom queries.
 
 ## Information Bits ##
 The following is a heat map of the amount of information bits per word, with the darker colors assigned to the words with the most information:<br>
