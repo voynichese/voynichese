@@ -1,5 +1,21 @@
 The Voynichese query viewer supports custom query overlays. Use the links below to view these custom queries.
 
+<a href="#information-bits">Information Bits</a><br>
+<a href="#diverse-words">Diverse Words</a><br>
+<a href="#wrapped-words">Wrapped Words</a><br>
+<a href="#palindromes">Palindromes</a><br>
+<a href="#word-grids">Word Grids</a><br>
+<a href="#word-graphs">Word Graphs</a><br>
+<a href="#label-words">Label Words</a><br>
+<a href="#initial--final-words">Initial &amp; Final Words</a><br>
+<a href="#split-words">Split Words</a><br>
+<a href="#recurring-word-sequences">Recurring Word Sequences</a><br>
+<a href="#word-lengths">Word Lengths</a><br>
+<a href="#superfluous-characters">Superfluous Characters</a><br>
+<a href="#variants">Variants</a><br>
+<a href="#folio--paragraphs-contents">Folio &amp; Paragraph Contents</a><br>
+<a href="#character-substitutions">Character Substitutions</a><br>
+
 ## Information Bits ##
 The following is a heat map of the amount of information bits per word, with the darker colors assigned to the words with the most information:<br>
 <a href='http://www.voynichese.com/#/lay:word-bits'>http://www.voynichese.com/#/lay:word-bits</a><br>
