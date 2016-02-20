@@ -12,7 +12,7 @@ The Voynichese query viewer supports custom query overlays. Use the links below 
 <a href="#recurring-word-sequences">Recurring Word Sequences</a><br>
 <a href="#word-lengths">Word Lengths</a><br>
 <a href="#superfluous-characters">Superfluous Characters</a><br>
-<a href="#variants">Word Variants</a><br>
+<a href="#word-variants">Word Variants</a><br>
 <a href="#folio--paragraphs-contents">Folio &amp; Paragraph Contents</a><br>
 <a href="#character-substitutions">Character Substitutions</a><br>
 
