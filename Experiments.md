@@ -54,6 +54,12 @@ All words beginning with EVA 't' or 'k', sorted without distinguishing 't' from 
 All words containing 'cXh', where X is 'p', 'f', 'k' or 't', sorted without distinguishing 'p' from 'f' or 'k' from 't':<br>
 <a href='http://www.voynichese.com/sample/cxh-words.jpg'>View Image</a> (8.6Mb size)<br>
 <br>
+All words containing 'iiin':<br>
+<a href='http://www.voynichese.com/sample/iiin-words.jpg'>View Image</a> (237Kb size)<br>
+<br>
+All words containing 'in' (excluding 'iiin' and 'iin'):<br>
+<a href='http://www.voynichese.com/sample/in-words.jpg'>View Image</a> (5.4Mb size)<br>
+<br>
 <h2>Word Graphs</h2>
 In the following graphs, nodes represent a word in the Voynich vocabulary.<br>
 <br>
