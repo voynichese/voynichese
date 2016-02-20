@@ -243,6 +243,7 @@ The following query highlights all words that have one or more variants - where 
 <a href='http://www.voynichese.com/#/lay:all-variants'>http://www.voynichese.com/#/lay:all-variants</a>
 
 Note that the majority of Voynichese words have at least one variant.<br>
+
 The following query colors each word according to how many single-character variants it has in the manuscript, with dark colors corresponding to higher variability.<br>
 <a href='http://www.voynichese.com/#/lay:word-variants'>http://www.voynichese.com/#/lay:word-variants</a>
 
