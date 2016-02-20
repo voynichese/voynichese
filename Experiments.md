@@ -245,9 +245,8 @@ The following query highlights all words that have one or more variants - where 
 Note that the majority of Voynichese words have at least one variant.<br>
 
 The following query colors each word according to how many single-character variants it has in the manuscript, with dark colors corresponding to higher variability.<br>
-<a href='http://www.voynichese.com/#/lay:word-variants'>http://www.voynichese.com/#/lay:word-variants</a>
+<a href='http://www.voynichese.com/#/lay:word-variants'>http://www.voynichese.com/#/lay:word-variants</a><br>
 
-<br>
 <h2>Folio & Paragraphs Contents</h2>
 
 The following queries highlight all the words that occur in each specific folio or paragraph - with common words highlighted in white and uncommon words (less than 20 occurrences in the manuscript) in blue.<br>
