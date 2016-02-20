@@ -12,7 +12,7 @@ The Voynichese query viewer supports custom query overlays. Use the links below 
 <a href="#recurring-word-sequences">Recurring Word Sequences</a><br>
 <a href="#word-lengths">Word Lengths</a><br>
 <a href="#superfluous-characters">Superfluous Characters</a><br>
-<a href="#variants">Variants</a><br>
+<a href="#variants">Word Variants</a><br>
 <a href="#folio--paragraphs-contents">Folio &amp; Paragraph Contents</a><br>
 <a href="#character-substitutions">Character Substitutions</a><br>
 
@@ -237,12 +237,15 @@ As an example, the query for superfluous "P", highlights <i>opcholor</i> in whit
 <a href='http://www.voynichese.com/#/lay:y-superfluous'>http://www.voynichese.com/#/lay:y-superfluous</a><br>
 <a href='http://www.voynichese.com/#/lay:z-superfluous'>http://www.voynichese.com/#/lay:z-superfluous</a><br>
 
-<h2>Variants</h2>
+<h2>Word Variants</h2>
 The following query highlights all words that have one or more variants - where a variant is a similar word that differs by at most one character insertion, deletion or replacement.<br>
 <br>
 <a href='http://www.voynichese.com/#/lay:all-variants'>http://www.voynichese.com/#/lay:all-variants</a>
 
 Note that the majority of Voynichese words have at least one variant.<br>
+The following query colors each word according to how many single-character variants it has in the manuscript, with dark colors corresponding to higher variability.<br>
+<a href='http://www.voynichese.com/#/lay:word-variants'>http://www.voynichese.com/#/lay:word-variants</a>
+
 <br>
 <h2>Folio & Paragraphs Contents</h2>
 
