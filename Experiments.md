@@ -63,6 +63,9 @@ All words containing 'in' (excluding 'iiin' and 'iin'):<br>
 All words containing 'an':<br>
 <a href='http://www.voynichese.com/sample/an-words.jpg'>View Image</a> (260Kb size)<br>
 <br>
+All words containing 'n' (excluding 'in'):<br>
+<a href='http://www.voynichese.com/sample/xn-words.jpg'>View Image</a> (322Kb size)<br>
+<br>
 <h2>Word Graphs</h2>
 In the following graphs, nodes represent a word in the Voynich vocabulary.<br>
 <br>
