@@ -239,9 +239,9 @@ As an example, the query for superfluous "P", highlights <i>opcholor</i> in whit
 
 <h2>Word Variants</h2>
 The following query highlights all words that have one or more variants - where a variant is a similar word that differs by at most one character insertion, deletion or replacement.<br>
+Note that the majority of Voynichese words have at least one variant.<br>
 <br>
 <a href='http://www.voynichese.com/#/lay:all-variants'>http://www.voynichese.com/#/lay:all-variants</a><br>
-Note that the majority of Voynichese words have at least one variant.<br>
 
 The following query colors each word according to how many single-character variants it has in the manuscript, with dark colors corresponding to higher variability.<br>
 <br>
