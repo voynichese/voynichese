@@ -14,7 +14,7 @@ If you're performing analysis of the manuscript and would like to use the projec
 
 To get started with the query tool, point your browser to <a href='http://www.voynichese.com'>http://www.voynichese.com</a>. When loaded, the application renders a grid containing 225 of the VM's folios, upon which query results are rendered.<br>
 <br>
-Note that the 225 folios exclude folio f86v, also known as the <i>Nine Rosettes</i> page. If you'd like to study that particular folio, see the following resources:<br>
+Note that the 225 folios exclude folio f86r, also known as the <i>Nine Rosettes</i> page. If you'd like to study that particular folio, see the following resources:<br>
 <br>
 <a href='http://brbl-zoom.library.yale.edu/viewer/1006231'>http://brbl-zoom.library.yale.edu/viewer/1006231</a>
 <br>
